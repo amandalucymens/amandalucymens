@@ -7,6 +7,6 @@ I turn messy processes into working systems. Data & Business Analyst with 8+ yea
 - 🔄 [ShiftSync UD](https://github.com/amandalucymens/shiftsync-ud-app) — shift management & swap coordination app for UD Catering, built in a 3-day sprint. [Live demo](https://shiftsync-ud-app.vercel.app/)
 
 **Skills**
-SQL · Python · Alteryx · Tableau · QlikSense · Excel · UiPath · n8n · Cursor
+SQL · Python · Tableau · Alteryx · QlikSense · Excel · Next.js · TypeScript · SimPy · NetLogo · UiPath · n8n · Cursor
 
 📫 [LinkedIn](https://linkedin.com/in/amanda-lucy-mensah-97839212b)
