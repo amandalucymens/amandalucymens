@@ -5,6 +5,7 @@ I turn messy processes into working systems. Data & Business Analyst with 8+ yea
 **Featured projects**
 - 📊 [Lend-Easy Simulation](https://github.com/amandalucymens/lend-easy-simulation) — Three-model lending risk analysis (Monte Carlo, Agent-Based Modeling, Discrete-Event Simulation) showing why staffing and underwriting must move together. [Live demo](https://lend-easy-simulation.vercel.app/)
 - 🔄 [ShiftSync UD](https://github.com/amandalucymens/shiftsync-ud-app) — shift management & swap coordination app for UD Catering, built in a 3-day sprint. [Live demo](https://shiftsync-ud-app.vercel.app/)
+- 🎬 [IMDb Top 250 Movies — Tableau Analysis](https://github.com/amandalucymens/IMDb-Top250-Movies-Tableau-Analysis) — Genre, era, and financial performance behind IMDb's Top 250 ranking, built in Tableau with calculated fields, sets, and dashboard actions. [Live demo](https://amandalucymens.github.io/IMDb-Top250-Movies-Tableau-Analysis/)
 
 **Skills**
 SQL · Python · Tableau · Alteryx · QlikSense · Excel · Next.js · TypeScript · SimPy · NetLogo · UiPath · n8n · Cursor
